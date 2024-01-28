@@ -17,8 +17,8 @@ const Home = (props) => {
           <div className="home-logo">
             <img alt="image" src="/group%202.svg" className="home-image" />
             <span className="brandName">
-              <span className="home-text01">UP -</span>
-              <span> START</span>
+              <span className="home-text01">BEARD</span>
+              <span> COLLABORATIVE</span>
             </span>
           </div>
           <div className="home-links">
@@ -40,17 +40,10 @@ const Home = (props) => {
         <div className="home-max-width1 max-width">
           <div className="home-content">
             <span className="home-subtitle beforeHeading">
-              up-start finance system
+              Beard Collaborative
             </span>
             <h1 className="home-title">
-              <span>
-                Unlock the next generation banking
-                <span
-                  dangerouslySetInnerHTML={{
-                    __html: ' ',
-                  }}
-                />
-              </span>
+              <span>THIS IS A TEST OF A COOL </span>
               <span className="home-text08">experience</span>
             </h1>
             <span className="home-description">
