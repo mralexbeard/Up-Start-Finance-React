@@ -43,7 +43,7 @@ const Home = (props) => {
               Beard Collaborative
             </span>
             <h1 className="home-title">
-              <span>THIS IS A TEST OF A COOL </span>
+              <span>THIS IS AN UPDATED TEST OF A COOL </span>
               <span className="home-text08">experience</span>
             </h1>
             <span className="home-description">
